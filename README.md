@@ -1,4 +1,4 @@
-# Projeto Mercado - Empório Blue
+# Projeto Mercado - Empório All Blue
 
 Sistema de gerenciamento de mercado feito em C# Windows Forms com banco de dados MySQL, desenvolvido em grupo durante o curso no Senac Santos em 2024.
 
