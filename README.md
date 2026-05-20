@@ -60,8 +60,7 @@ O projeto conta com testes unitários feitos com MSTest cobrindo as principais f
 
 ## Banco de Dados
 
-O banco se chama `Mercado_Emporio_Blue`. O script para criar as tabelas e dados iniciais está no arquivo `database.sql` na raiz do repositório.
-
+O banco se chama `Mercado_Emporio_Blue`. O script para criar as tabelas e dados iniciais está no arquivo [database.sql](database.sql) na raiz do repositório.
 ## Como rodar
 
 1. Clone o repositório
